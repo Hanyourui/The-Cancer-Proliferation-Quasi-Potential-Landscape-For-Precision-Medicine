@@ -599,4 +599,4 @@ if __name__ == '__main__':
     plt.tight_layout()
     plt.show()
 
-    # 3D旋转图像及信息染色图形见matlab程序
+    # 3Dlandscape figure is drew by matlab"landscape3D.m"
