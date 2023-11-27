@@ -1,5 +1,5 @@
 # -*- coding = utf-8 -*-
-# @Time : 2023/11/27 17:30
+# @Time : 2023/9/27 17:30
 # @Author : Yourui Han
 # @File : The Cancer Proliferation Quasi-Potential Landscape For Precision Medicine.py
 # @Software : PyCharm
