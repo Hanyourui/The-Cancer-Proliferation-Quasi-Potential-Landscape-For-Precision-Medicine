@@ -15,6 +15,7 @@ And it offers potential strategies for diagnosis and treatment, providing valuab
 
 
 Description
+
 "TCGA_LUAD_all_deg_sur_expr_sub_smoke.xlsx" is the data of 560 samples' DESGs gene expression data from TCGA-LUAD.
 "The Cancer Proliferation Quasi-Potential Landscape For Precision Medicine.py" is the main code to obtain the cancer proliferation quasi-potential landscape of LUAD.
 The 3D figure of the landscape is drew by matlab"landscape3D.m".
